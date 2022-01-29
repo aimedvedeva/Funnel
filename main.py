@@ -2,7 +2,7 @@ import psycopg2
 import pandas.io.sql as sqlio
 import datetime
 
-conn = psycopg2.connect("dbname='postgres' user='amedvedeva' host='135.181.61.116' password='JhnbgLrt@345nbvYukfbg^739cdsg'")
+conn = psycopg2.connect("dbname='postgres' user='' host='' password=")
 
 ### parameters
 start_date = '2021-03-01'
